@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ruby on Rails Javascript React <br>📚 I'm currently learning Redux<br>🎯 Goals: Learn React native<br>🎲 Fun fact: I am a Chelsea.FC supporter</p>
+<p align="left">✨ Ruby on Rails Javascript React <br>📚 I'm currently learning Redux<br>🎯 Goals: Learn React native<br>🎲 Fun fact: I am a Chelsea supporter</p>
 📫 Feel free to reach me out **ilyascherfi91@gmail.com**
 
 ###
