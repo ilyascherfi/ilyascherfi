@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ruby on Rails Javascript <br>📚 I'm currently learning React<br>🎯 Goals: Learn React native<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Ruby on Rails Javascript React <br>📚 I'm currently learning Redux<br>🎯 Goals: Learn React native<br>🎲 Fun fact: ...</p>
 
 ###
 
