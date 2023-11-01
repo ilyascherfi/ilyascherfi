@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ Ruby on Rails Javascript React <br>📚 I'm currently learning Redux<br>🎯 Goals: Learn React native<br>🎲 Fun fact: ...</p>
+📫 Feel free to reach me out **ilyascherfi91@gmail.com**
 
 ###
 
@@ -28,9 +29,13 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg" height="40" alt="ruby logo" 
+    />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg" height="40" alt="heroku logo"  />
+
 </div>
 
 ###
