@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ilyas Cherfi  and I'm a Full Stack Developer, from Paris. Thank You for taking the time to view my GitHub Profile 😄</p>
+<p align="left">My name is Ilyas Cherfi  and I'm a Full Stack Developer, from Paris. Thank you for taking the time to view my GitHub Profile 😄</p>
 
 ###
 
