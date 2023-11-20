@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Ruby on Rails Javascript React <br>📚 I'm currently learning Redux<br>🎯 Goals: Learn React native<br>🎲 Fun fact: I am a Chelsea supporter</p>
-📫 Feel free to reach me out <a href="mailto:ilyascherfi91@gmail.com">ilyascherfi91@gmail.com</a>
+📫 Feel free to reach me out at:  <a href="mailto:ilyascherfi91@gmail.com">ilyascherfi91@gmail.com</a>
 
 ###
 
